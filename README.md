@@ -22,11 +22,11 @@
 ### NOTE: DONT BLOCK ANY WEBSITES WHILE SUPER USER IS ON!
 ### Step 1 
 ```
-Run server application and enter ip address
+Run "Server" in server side and enter ip address
 ```
 ### Step 2
 ```
-Turn on super user and run the client application
+Turn on super user and run the "client.exe" in client side
 ```
 ### Step 3
 ```
