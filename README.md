@@ -49,8 +49,13 @@ You can now block any websites using server application, Enjoy!
 ## Tutorial Video
 
 - [Tutorial Video](https://www.facebook.com/kthdavidx/videos/724983139840787) 
+
+## Download
+
+- [Download Link](https://www.mediafire.com/file/lewlmqxihyfjbyr/blocker.rar/file)
+
 ## Developer
-- [Facebook](https://www.facebook.com/kthdavidx/) 
+- [Facebook](https://www.facebook.com/kthdavidx/)
 
 ## License
 MIT License
