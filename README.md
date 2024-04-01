@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=unrealisticfaces)
 # site-blocker
  - Your silent ally in managing website access control across diskless environment
+## Download
+
+- [Download Link](https://www.mediafire.com/file/lewlmqxihyfjbyr/blocker.rar/file)
 ## Features
 
 - Server-side allows to manage unblocking/blocking inappropriate or unwanted sites to client
@@ -49,10 +52,6 @@ You can now block any websites using server application, Enjoy!
 ## Tutorial Video
 
 - [Tutorial Video](https://www.facebook.com/kthdavidx/videos/724983139840787) 
-
-## Download
-
-- [Download Link](https://www.mediafire.com/file/lewlmqxihyfjbyr/blocker.rar/file)
 
 ## Developer
 - [Facebook](https://www.facebook.com/kthdavidx/)
