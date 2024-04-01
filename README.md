@@ -45,7 +45,11 @@ Turn off super
 ```
 ### Step 6
 ```
-You can now block any websites using server application, Enjoy!
+You can now block any websites using server application
+```
+### Step 7 
+```
+Server.exe must keep running just create a shortcut and paste it as well on server side. Enjoy!
 ```
 #### IMPORTANT NOTE - In order to take effect any changes you made restart the client machine and re-open the server app
 
