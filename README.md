@@ -47,7 +47,7 @@ Turn off super
 ```
 You can now block any websites using server application, Enjoy!
 ```
-### In order to take effect any changes you made restart the client machine
+### In order to take effect any changes you made restart the client machine and re-open the server app
 
 ## Tutorial Video
 
