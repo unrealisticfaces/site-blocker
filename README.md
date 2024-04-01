@@ -49,7 +49,7 @@ You can now block any websites using server application
 ```
 ### Step 7 
 ```
-Server.exe must keep running just create a shortcut and paste it as well on server side. Enjoy!
+"Server" must keep on running just create a shortcut and paste it as well on startup (server-side)
 ```
 #### IMPORTANT NOTE - In order to take effect any changes you made restart the client machine and re-open the server app
 
