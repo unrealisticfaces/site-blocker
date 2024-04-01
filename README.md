@@ -22,7 +22,7 @@
 ### NOTE: DONT BLOCK ANY WEBSITES WHILE SUPER USER IS ON!
 ### Step 1 
 ```
-Run "Server" in server side and enter ip address
+Run "Server,exe" in server side and enter ip address
 ```
 ### Step 2
 ```
@@ -30,7 +30,7 @@ Turn on super user and run the "client.exe" in client side
 ```
 ### Step 3
 ```
-Create shortcut and paste it to startup
+Create shortcut and paste it to startup (client-side)
 ```
 ### Step 4
 ```
